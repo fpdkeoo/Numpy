@@ -1,5 +1,3 @@
-# Numpy
-
 # **Numpy筆記**
 
 **維度 dim : nd物件.ndim**
