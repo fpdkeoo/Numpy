@@ -6,7 +6,7 @@
 
 **幾列幾行 shape : nd 物件.shape**
 
-資料型態 dtype : nd物件.dtype
+**資料型態 dtype : nd物件.dtype**
 
 ## **目錄**
 
