@@ -1,6 +1,6 @@
 # Numpy
 
-# **Numpy教學**
+# **Numpy筆記**
 
 **維度 dim : nd物件.ndim**
 
